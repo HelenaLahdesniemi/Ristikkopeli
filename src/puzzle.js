@@ -56,7 +56,7 @@ const Game = () => {
         return (
             <table className="puzzle">
                 <tr className="rivi0">
-                    <td className="ruutu1" style={valiStyle}></td>
+                    <td className="ruutu1" style={valiStyle}>1.</td>
                     <td className="ruutu1" style={valiStyle}></td>
                     <td className="ruutu2" style={valiStyle}></td>
                     <td className="ruutu3" style={valiStyle}></td>
